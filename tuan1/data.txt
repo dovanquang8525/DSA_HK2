@@ -1,0 +1,22 @@
+bank_accounts = [
+    #account
+    {
+        account_number: "1231313",
+        password: "12313123"
+    },
+    {
+        account_number: "1231313",
+        password: "12313123"
+    },
+    {
+        account_number: "1231313",
+        password: "12313123"
+    },
+    {
+        account_number: "1231313",
+        password: "12313123"
+    },
+]
+
+for account in bank_accounts
+    print("Account number")
